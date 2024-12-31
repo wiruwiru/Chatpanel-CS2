@@ -66,6 +66,14 @@ To use this project, ensure you meet the following requirements:
 
 ---
 
+## TO-DO
+| Task                                               | Status     | Priority   | Description                                                                                              |
+|----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
+| Statistics Page with Graph and Filters             | Pending    | Medium       | Show a graph with player activity and the ability to filter by administrators, including chat activity.   |
+| Multilingual Support                               | Pending    | Low       | Implement the ability to switch between languages such as English, Spanish, or Portuguese.               |
+
+---
+
 ## 🔒 Build-Only Distribution
 
 The codebase for this project is private, and only the compiled build is shared. 
