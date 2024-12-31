@@ -1,0 +1,12 @@
+.vs
+node_modules
+package-lock.json
+
+# SRC
+src
+.env
+.eslintrc.json
+components.json
+postcss.config.mjs
+tailwind.config.js
+jsconfig.json
