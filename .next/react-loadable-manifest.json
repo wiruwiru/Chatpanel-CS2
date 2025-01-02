@@ -6,9 +6,9 @@
     ]
   },
   "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
-    "id": 3709,
+    "id": 6090,
     "files": [
-      "static/chunks/709.e04b3301a1eba8ef.js"
+      "static/chunks/709.e4ce9884a3ed62dd.js"
     ]
   }
 }
