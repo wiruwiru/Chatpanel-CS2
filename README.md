@@ -40,6 +40,10 @@ Welcome to **ChatPanel**! This web project is designed to help staff members rev
 ### 🔍 Player Search
 ![PlayerSearch](https://github.com/user-attachments/assets/f5d5cd47-6d2f-4596-b613-c06f183c48ff)
 
+### 📈 Statistics
+![Statistics](https://github.com/user-attachments/assets/fdfe343e-1517-459c-b528-dc2284426133)
+![Admin-Statistics](https://github.com/user-attachments/assets/c6e918ec-1726-47c7-880b-419bcec69b8b)
+
 ---
 
 ## 🔧 Requirements
@@ -69,6 +73,7 @@ To use this project, ensure you meet the following requirements:
 ## TO-DO
 | Task                                               | Status     | Priority   | Description                                                                                              |
 |----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
+| More Stadistics                               | In progress    | High       | Add "Hours Played," "Unique Players," and "Number of Messages Sent".               |
 | Statistics Page with Graph and Filters             | Pending    | Medium       | Show a graph with player activity and the ability to filter by administrators, including chat activity.   |
 | Multilingual Support                               | Pending    | Low       | Implement the ability to switch between languages such as English, Spanish, or Portuguese.               |
 
