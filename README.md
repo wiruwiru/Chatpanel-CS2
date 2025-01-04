@@ -55,6 +55,8 @@ To use this project, ensure you meet the following requirements:
   - [Metamod:Source](https://www.sourcemm.net/downloads.php/?branch=master) installed.
   - [SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) by daffyyyy installed.
 - The same database used by **SimpleAdmin** must be configured.
+- A hosting environment that supports **Node.js** execution (e.g., [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/), etc.).
+
 ---
 
 ## ⚙️ Setup
