@@ -26,6 +26,8 @@
     "clsx": "^2.1.1",
     "cookie": "^1.0.2",
     "date-fns": "^4.1.0",
+    "i18next": "^24.2.0",
+    "i18next-browser-languagedetector": "^8.0.2",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.468.0",
     "mysql2": "^3.11.5",
@@ -37,6 +39,7 @@
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-day-picker": "^8.10.1",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
+    "react-i18next": "^15.4.0",
     "recharts": "^2.15.0",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7"

@@ -17,7 +17,7 @@ Welcome to **ChatPanel**! This web project is designed to help staff members rev
   - Name
   - Message Content
 - **Server & Team Filters:** Narrow your search by specific server or team.
-
+- **Multilingual Support**: Fully translated interface available in **Spanish**, **English**, and **Portuguese**.
 ---
 
 ## 🖼️ Previews
@@ -74,8 +74,9 @@ To use this project, ensure you meet the following requirements:
 | Task                                               | Status     | Priority   | Description                                                                                              |
 |----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
 | More Stadistics                               | In progress    | High       | Add "Hours Played," "Unique Players," and "Number of Messages Sent".               |
-| Statistics Page with Graph and Filters             | Pending    | Medium       | Show a graph with player activity and the ability to filter by administrators, including chat activity.   |
-| Multilingual Support                               | Pending    | Low       | Implement the ability to switch between languages such as English, Spanish, or Portuguese.               |
+| Fix Header Language Bug.               |
+| Statistics Page with Graph and Filters             | **Complete**    | Medium       | Show a graph with player activity and the ability to filter by administrators.   |
+| Multilingual Support                               | **Complete**    | Low       | Implement the ability to switch between languages such as English, Spanish, or Portuguese.               |
 
 ---
 
