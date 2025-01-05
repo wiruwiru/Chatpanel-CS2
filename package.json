@@ -1,6 +1,6 @@
 {
   "name": "chatpanel",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A web application for staff members to review chat logs and access user information. Exclusively compatible with SimpleAdmin.",
   "private": true,
   "scripts": {
