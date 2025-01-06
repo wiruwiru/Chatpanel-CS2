@@ -89,7 +89,7 @@ To use this project, ensure you meet the following requirements:
 | Task                                               | Status     | Priority   | Description                                                                                              |
 |----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
 | More Stadistics                               | In progress    | High       | Add "Hours Played," "Unique Players," and "Number of Messages Sent".               |
-| Fix Header Language Bug.               |
+| Fix Header Language Bug               | **Complete** | High |
 | Statistics Page with Graph and Filters             | **Complete**    | Medium       | Show a graph with player activity and the ability to filter by administrators.   |
 | Multilingual Support                               | **Complete**    | Low       | Implement the ability to switch between languages such as English, Spanish, or Portuguese.               |
 
