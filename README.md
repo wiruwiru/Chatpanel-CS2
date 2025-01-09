@@ -68,7 +68,7 @@ To use this project, ensure you meet the following requirements:
      node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
      ```
      Alternatively, you can use an online generator like [random.org](https://www.random.org/strings/) or any cryptography tool.
-   - **NEXT_PUBLIC_BASE_URL**: Set this to your project's domain or localhost URL. For example:
+   - **BASE_URL**: Set this to your project's domain or localhost URL. For example:
      - If you're running the project locally, set it to `http://localhost:3000`.
      - If the project is deployed on a server, set it to your domain, such as `https://yourdomain.com`.
    - **FACEIT_API_KEY**: Obtain your API key from [Faceit Developers](https://developers.faceit.com). **Optional**
