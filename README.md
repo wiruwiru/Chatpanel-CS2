@@ -88,10 +88,12 @@ To use this project, ensure you meet the following requirements:
 ## TO-DO
 | Task                                               | Status     | Priority   | Description                                                                                              |
 |----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
-| More Stadistics                               | In progress    | High       | Add "Hours Played," "Unique Players," and "Number of Messages Sent".               |
-| Fix Header Language Bug               | **Complete** | High |
+| Fetch Server IDs Automatically     | In progress    | High       | Obtain server IDs automatically from the configured database (sa_servers).               |
+| Improve Documentation and Installation     | Pending    | Medium       | Enhance the project documentation and streamline the installation process, including support for hosting on EasyPanel.               |
+| Fix Header Language Bug            | **Complete** | High | Resolve language selection not displaying properly in headers. |
+| More Stadistics                    | **Complete**    | Medium       | Add "Hours Played," and "Number of Messages Sent".               |
 | Statistics Page with Graph and Filters             | **Complete**    | Medium       | Show a graph with player activity and the ability to filter by administrators.   |
-| Multilingual Support                               | **Complete**    | Low       | Implement the ability to switch between languages such as English, Spanish, or Portuguese.               |
+| Multilingual Support               | **Complete**    | Low       | Implement the ability to switch between languages such as English, Spanish, or Portuguese.               |
 
 ---
 
