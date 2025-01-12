@@ -1,6 +1,6 @@
 # ChatPanel [CS2]
 
-Welcome to **ChatPanel**! This web project is designed to help staff members review chat logs and access user information. The project works exclusively with **SimpleAdmin**.
+Welcome to **ChatPanel**! This web project is designed to help staff members review chat logs and access user information. The project works exclusively with the **SimpleAdmin** fork made by Cruze.
 
 ---
 
@@ -53,7 +53,7 @@ To use this project, ensure you meet the following requirements:
 - A Counter-Strike 2 server with:
   - [CounterStrike Sharp](https://github.com/roflmuffin/CounterStrikeSharp) installed.
   - [Metamod:Source](https://www.sourcemm.net/downloads.php/?branch=master) installed.
-  - [SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) by daffyyyy installed.
+  - [SimpleAdmin](https://github.com/Cruze03/CS2-SimpleAdmin) by daffyyyy (fork Cruze) installed.
 - The same database used by **SimpleAdmin** must be configured.
 - A hosting environment that supports **Node.js** execution.
 
