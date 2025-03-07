@@ -60,11 +60,11 @@
   "author": "luca.uy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wiruwiru/Chatlogs-CS2.git"
+    "url": "https://github.com/wiruwiru/Chatpanel-CS2.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wiruwiru/Chatlogs-CS2/issues"
+    "url": "https://github.com/wiruwiru/Chatpanel-CS2/issues"
   },
-  "homepage": "https://github.com/wiruwiru/Chatlogs-CS2/chatpanel#readme"
+  "homepage": "https://github.com/wiruwiru/Chatpanel-CS2/#readme"
 }
