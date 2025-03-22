@@ -22,7 +22,7 @@ jobs:
           zip -r ${{ env.PROJECT_NAME }}.zip . \
           -x "*.git*" "*.github*" "README.md" "LICENSE" ".gitignore"
       - name: Upload ZIP Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: "${{ env.PROJECT_NAME }}.zip"
           path: "${{ env.PROJECT_NAME }}.zip"
