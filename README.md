@@ -88,7 +88,8 @@ To use this project, ensure you meet the following requirements:
 ## TO-DO
 | Task                                               | Status     | Priority   | Description                                                                                              |
 |----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
-| Fetch Server IDs Automatically     | In progress    | High       | Obtain server IDs automatically from the configured database (sa_servers).               |
+| Fix known bugs     | Pending    | High       | Fix html errors caused by multi-lang.               |
+| Fetch Server IDs Automatically     | Pending    | High       | Obtain server IDs automatically from the configured database (sa_servers).               |
 | Improve Documentation and Installation     | Pending    | Medium       | Enhance the project documentation and streamline the installation process, including support for hosting on EasyPanel.               |
 | Fix Header Language Bug            | **Complete** | High | Resolve language selection not displaying properly in headers. |
 | More Stadistics                    | **Complete**    | Medium       | Add "Hours Played," and "Number of Messages Sent".               |
