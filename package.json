@@ -1,6 +1,6 @@
 {
   "name": "chatpanel",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A web application for staff members to review chat logs and access user information. Exclusively compatible with SimpleAdmin.",
   "private": true,
   "scripts": {
@@ -37,7 +37,7 @@
     "passport": "^0.7.0",
     "passport-steam": "^1.0.18",
     "react": "19.0.0",
-    "react-day-picker": "^9.6.3",
+    "react-day-picker": "^8.10.1",
     "react-dom": "19.0.0",
     "react-i18next": "^15.4.1",
     "recharts": "^2.15.1",
@@ -66,5 +66,5 @@
   "bugs": {
     "url": "https://github.com/wiruwiru/Chatpanel-CS2/issues"
   },
-  "homepage": "https://github.com/wiruwiru/Chatpanel-CS2/#readme"
+  "homepage": "https://github.com/wiruwiru/Chatpanel-CS2/chatpanel#readme"
 }

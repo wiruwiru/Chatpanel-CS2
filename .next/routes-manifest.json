@@ -73,8 +73,8 @@
       "routeKeys": {
         "nxtPsteamid": "nxtPsteamid"
       },
-      "dataRouteRegex": "^/_next/data/WD250W7JITS4KTtsWHdof/chatlog/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/WD250W7JITS4KTtsWHdof/chatlog/(?<nxtPsteamid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/szibRgFGSvHl5vnK7A9nE/chatlog/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/szibRgFGSvHl5vnK7A9nE/chatlog/(?<nxtPsteamid>[^/]+?)\\.json$"
     }
   ],
   "rsc": {

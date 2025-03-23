@@ -3,6 +3,7 @@
   "/_error": "pages/_error.js",
   "/admin/dashboard": "pages/admin/dashboard.html",
   "/api/admin/authorized-users": "pages/api/admin/authorized-users.js",
+  "/api/admin/detect-servers": "pages/api/admin/detect-servers.js",
   "/api/admin/config": "pages/api/admin/config.js",
   "/api/auth/logout": "pages/api/auth/logout.js",
   "/api/auth/session": "pages/api/auth/session.js",
