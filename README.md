@@ -89,7 +89,10 @@ To use this project, ensure you meet the following requirements:
 ## TO-DO
 | Task                                               | Status     | Priority   | Description                                                                                              |
 |----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
-| Fix known bugs     | Pending    | High       | Fix html errors caused by multi-lang.               |
+| Independent Plugin for Logging Messages and Statistics | Pending    | High       | Develop a standalone plugin to log messages and store statistics in the database. |
+| Improve Permission System | Pending | High | Enhance the permission system to allow controlled access to different project features, such as message logging and statistics. |
+| General Style Improvements | Pending | Medium | Improve the overall design and styling of the project. |
+| Fix known bugs     | Pending    | Medium       | Fix html errors caused by multi-lang.               |
 | Improve Documentation and Installation     | Pending    | Medium       | Enhance the project documentation and streamline the installation process, including support for hosting on EasyPanel.               |
 | Fetch Server IDs Automatically     | **Complete**    | High       | Obtain server IDs automatically from the configured database (sa_servers).               |
 | Fix Header Language Bug            | **Complete** | High | Resolve language selection not displaying properly in headers. |
