@@ -11,6 +11,7 @@ Welcome to **ChatPanel**! This web project is designed to help staff members rev
   - **SteamID**
   - **IP Address**
   - **Last Connection**
+  - **Previous** and **active sanctions**
 - **Advanced Filters:** Quickly search for users by:
   - SteamID
   - IP Address
@@ -38,7 +39,7 @@ Welcome to **ChatPanel**! This web project is designed to help staff members rev
 ![User Chatlog](https://github.com/user-attachments/assets/c46d8e0f-3594-4584-b074-ae682a3e9432)
 
 ### 🔍 Player Search
-![PlayerSearch](https://github.com/user-attachments/assets/f5d5cd47-6d2f-4596-b613-c06f183c48ff)
+![PlayerSearch](https://github.com/user-attachments/assets/ce6cfe24-e8d0-411c-b092-ad8d23af93dd)
 
 ### 📈 Statistics
 ![Statistics](https://github.com/user-attachments/assets/fdfe343e-1517-459c-b528-dc2284426133)
