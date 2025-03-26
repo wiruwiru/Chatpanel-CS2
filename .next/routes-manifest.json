@@ -15,6 +15,14 @@
   "headers": [],
   "dynamicRoutes": [
     {
+      "page": "/api/admin/roles/[id]",
+      "regex": "^/api/admin/roles/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/api/admin/roles/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
       "page": "/chatlog/[steamid]",
       "regex": "^/chatlog/([^/]+?)(?:/)?$",
       "routeKeys": {
@@ -49,12 +57,6 @@
       "namedRegex": "^/home(?:/)?$"
     },
     {
-      "page": "/login",
-      "regex": "^/login(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/login(?:/)?$"
-    },
-    {
       "page": "/search",
       "regex": "^/search(?:/)?$",
       "routeKeys": {},
@@ -73,8 +75,8 @@
       "routeKeys": {
         "nxtPsteamid": "nxtPsteamid"
       },
-      "dataRouteRegex": "^/_next/data/R29etjgDG4_KBvAJwJJLE/chatlog/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/R29etjgDG4_KBvAJwJJLE/chatlog/(?<nxtPsteamid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/5s\\-HQQvshCUI8d\\-keSYtg/chatlog/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/5s\\-HQQvshCUI8d\\-keSYtg/chatlog/(?<nxtPsteamid>[^/]+?)\\.json$"
     }
   ],
   "rsc": {
