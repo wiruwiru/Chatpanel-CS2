@@ -1,0 +1,233 @@
+{
+  "header": {
+    "home": "Home",
+    "chatlogs": "Chatlogs",
+    "playerSearch": "Player search",
+    "statistics": "Statistics",
+    "adminPanel": "Admin panel",
+    "toggleMenu": "Toggle menu",
+    "selectLanguage": "Select language",
+    "userAvatar": "User avatar",
+    "user": "User",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "ChatPanel",
+    "playerSearch": "Player search",
+    "chatlogs": "Chatlogs",
+    "statistics": "Statistics",
+    "adminPanel": "Admin panel"
+  },
+  "messageDisplay": {
+    "title": "Chatlogs",
+    "refresh": "Refresh",
+    "filters": {
+      "selectServer": "Select Server",
+      "allServers": "All Servers",
+      "selectTeam": "Select Team",
+      "allChats": "All Chats",
+      "globalMessage": "Global Message",
+      "teamMessage": "Team Message",
+      "filterBySteamID": "Filter by Steam ID, Name or IP",
+      "filterByMessage": "Filter by Message"
+    },
+    "teamNames": {
+      "global": "Global",
+      "team": "Team",
+      "unknown": "Unknown"
+    },
+    "loading": "Loading...",
+    "error": {
+      "title": "An error occurred",
+      "fetchMessages": "Error loading messages",
+      "fetchProfiles": "Error loading Steam profiles"
+    }
+  },
+  "userSearch": {
+    "title": "Player Search",
+    "searchPlaceholder": "Search by SteamID64, Name or IP",
+    "searchButton": "Search",
+    "performSearch": "Perform a search to see results.",
+    "noResults": "No results found. Try a different search method.",
+    "error": "There was an error retrieving results. Please try again in a few minutes.",
+    "loading": "Loading...",
+    "lastSeen": "Last seen",
+    "ip": "IP"
+  },
+  "userHistory": {
+    "title": "User History",
+    "performSearch": "Select a user to view their history",
+    "error": "Failed to load user history",
+    "activeSanctions": "Active Sanctions",
+    "noActiveSanctions": "No active sanctions",
+    "activeBans": "Active Bans",
+    "activeMutes": "Active Mutes",
+    "sanctionHistory": "Sanction History",
+    "noSanctionHistory": "No sanction history",
+    "banHistory": "Ban History",
+    "muteHistory": "Mute History",
+    "reason": "Reason",
+    "duration": "Duration",
+    "admin": "Admin",
+    "date": "Date",
+    "type": "Type",
+    "permanent": "Permanent",
+    "minutes": "minutes",
+    "hours": "hours",
+    "days": "days",
+    "chatMute": "Chat Mute",
+    "voiceMute": "Voice Mute",
+    "fullSilence": "Full Silence",
+    "status": {
+      "active": "ACTIVE",
+      "unbanned": "UNBANNED",
+      "expired": "EXPIRED"
+    }
+  },
+  "adminConnectionsChart": {
+    "title": "Admin Connections",
+    "description": "Admin connections over time",
+    "dailyView": "View by day",
+    "hourlyView": "View by hour",
+    "serverList": "Server list",
+    "daysToShow": "Days to show",
+    "selectServer": "Select server",
+    "allServers": "All servers",
+    "label": "Admin Connections"
+  },
+  "connectionsChart": {
+    "title": "Server Connections",
+    "description": "Player connections over time",
+    "dailyView": "View by day",
+    "hourlyView": "View by hour",
+    "serverList": "Server list",
+    "daysToShow": "Days to show",
+    "selectServer": "Select server",
+    "allServers": "All servers",
+    "label": "Server Connections"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "redirecting": "Redirecting...",
+    "daterange": "Select a date"
+  },
+  "totalPlaytime": {
+    "title": "Total Playtime"
+  },
+  "totalConnections": {
+    "title": "Total Connections"
+  },
+  "totalMessages": {
+    "title": "Total Messages"
+  },
+  "statistics": {
+    "title": "Statistics",
+    "serverConnections": "Server Connections",
+    "adminConnections": "Admin Connections",
+    "errors": {
+      "serverOptions": "Error loading server options"
+    }
+  },
+  "userChatLog": {
+    "title": "User Chat Log",
+    "userProfile": {
+      "steamId": "SteamID",
+      "ip": "IP",
+      "unknown": "Unknown"
+    },
+    "filters": {
+      "showFilters": "Show filters",
+      "hideFilters": "Hide filters",
+      "selectServer": "Select Server",
+      "selectTeam": "Select Team",
+      "filterByMessage": "Filter by Message"
+    },
+    "messages": {
+      "globalMessage": "Global Message",
+      "teamMessage": "Team Message",
+      "unknown": "Unknown"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "errors": {
+      "failedToLoad": "Failed to load messages"
+    }
+  },
+  "footer": {
+    "designBy": "Designed by"
+  },
+  "login": {
+    "title": "Login",
+    "steamLogin": "Login with Steam",
+    "errors": {
+      "sessionCheck": "Error checking session",
+      "authFailed": "Authentication failed",
+      "notAuthorized": "Not authorized"
+    }
+  },
+  "dashboard": {
+    "title": "Control Panel",
+    "authorizedUsers": "Authorized Users",
+    "configuration": "Configuration",
+    "roles": "Permission Management",
+    "addNewRole": "Add New Role",
+    "roleName": "Role Name",
+    "roleDescription": "Role Description",
+    "enterRoleName": "Enter role name",
+    "enterRoleDescription": "Enter role description",
+    "addRole": "Add Role",
+    "edit": "Edit",
+    "save": "Save",
+    "remove": "Remove",
+    "pageAccess": "Page Access",
+    "ownerHasAllAccess": "The owner always has access to all pages",
+    "roleManagementOwnerOnly": "Only the owner can manage roles",
+    "noPermission": "You don't have permission to access this section",
+    "enterSteamID64": "Enter SteamID64",
+    "addUser": "Add User",
+    "noAuthorizedUsers": "No authorized users",
+    "unknownUser": "Unknown User",
+    "role": "Role",
+    "imageUrl": "Image URL",
+    "enterImageUrl": "Enter image URL",
+    "updateImageUrl": "Update image URL",
+    "serverOptions": "Server Options",
+    "serverOptionsFormat": "Format: NAME | SERVER ID",
+    "serverName": "Server Name (e.g. RETAKE #1)",
+    "serverId": "Server ID (e.g. 1)",
+    "addServerOption": "Add Server Option",
+    "updateServerOptions": "Update Server Options",
+    "detectServersAutomatically": "Detect servers automatically",
+    "detectingServers": "Detecting...",
+    "serversDetected": "Servers detected",
+    "serversDetectedMessage": "{{count}} servers have been detected.",
+    "serverDetectionError": "Could not detect servers.",
+    "serverOptionsUpdated": "Server options updated successfully",
+    "success": {
+      "userAdded": "User added successfully",
+      "userRemoved": "User removed successfully",
+      "userRoleUpdated": "User role updated successfully",
+      "configUpdated": "Configuration updated successfully"
+    },
+    "error": {
+      "addUser": "Error adding user",
+      "removeUser": "Error removing user",
+      "updateUserRole": "Error updating user role",
+      "updateConfig": "Error updating configuration"
+    }
+  },
+  "roles": {
+    "owner": "Owner"
+  },
+  "pages": {
+    "dashboard": "Admin Panel",
+    "statistics": "Statistics",
+    "search": "Player Search",
+    "chatlog": "Chat Logs",
+    "roles": "Role Management"
+  }
+}

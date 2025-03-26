@@ -1,0 +1,233 @@
+{
+  "header": {
+    "home": "Início",
+    "chatlogs": "Chatlogs",
+    "playerSearch": "Busca de jogadores",
+    "statistics": "Estatísticas",
+    "adminPanel": "Administração",
+    "toggleMenu": "Alternar menu",
+    "selectLanguage": "Selecionar idioma",
+    "userAvatar": "Avatar do usuário",
+    "user": "Usuário",
+    "logout": "Sair"
+  },
+  "home": {
+    "title": "ChatPanel",
+    "playerSearch": "Busca de jogadores",
+    "chatlogs": "Chatlogs",
+    "statistics": "Estatísticas",
+    "adminPanel": "Administração"
+  },
+  "messageDisplay": {
+    "title": "Chatlogs",
+    "refresh": "Atualizar",
+    "filters": {
+      "selectServer": "Selecionar Servidor",
+      "allServers": "Todos os Servidores",
+      "selectTeam": "Selecionar Equipe",
+      "allChats": "Todos os Chats",
+      "globalMessage": "Mensagem Global",
+      "teamMessage": "Mensagem de Equipe",
+      "filterBySteamID": "Filtrar por Steam ID, Nome ou IP",
+      "filterByMessage": "Filtrar por Mensagem"
+    },
+    "teamNames": {
+      "global": "Global",
+      "team": "Equipe",
+      "unknown": "Desconhecido"
+    },
+    "loading": "Carregando...",
+    "error": {
+      "title": "Ocorreu um erro",
+      "fetchMessages": "Erro ao carregar mensagens",
+      "fetchProfiles": "Erro ao carregar perfis do Steam"
+    }
+  },
+  "userSearch": {
+    "title": "Busca de Jogadores",
+    "searchPlaceholder": "Buscar por SteamID64, Nome ou IP",
+    "searchButton": "Buscar",
+    "performSearch": "Realize uma busca para ver resultados.",
+    "noResults": "Nenhum resultado encontrado. Tente um método de busca diferente.",
+    "error": "Houve um erro ao recuperar os resultados. Por favor, tente novamente em alguns minutos.",
+    "loading": "Carregando...",
+    "lastSeen": "Visto pela última vez",
+    "ip": "IP"
+  },
+  "userHistory": {
+    "title": "Histórico do Usuário",
+    "performSearch": "Selecione um usuário para ver seu histórico",
+    "error": "Falha ao carregar o histórico do usuário",
+    "activeSanctions": "Sanções Ativas",
+    "noActiveSanctions": "Não há sanções ativas",
+    "activeBans": "Banimentos Ativos",
+    "activeMutes": "Silenciamentos Ativos",
+    "sanctionHistory": "Histórico de Sanções",
+    "noSanctionHistory": "Não há histórico de sanções",
+    "banHistory": "Histórico de Banimentos",
+    "muteHistory": "Histórico de Silenciamentos",
+    "reason": "Motivo",
+    "duration": "Duração",
+    "admin": "Administrador",
+    "date": "Data",
+    "type": "Tipo",
+    "permanent": "Permanente",
+    "minutes": "minutos",
+    "hours": "horas",
+    "days": "dias",
+    "chatMute": "Silenciado no Chat",
+    "voiceMute": "Silenciado na Voz",
+    "fullSilence": "Silêncio Total",
+    "status": {
+      "active": "ATIVO",
+      "unbanned": "DESBANIDO",
+      "expired": "EXPIRADO"
+    }
+  },
+  "adminConnectionsChart": {
+    "title": "Conexões de Administradores",
+    "description": "Conexões de administradores ao longo do tempo",
+    "dailyView": "Ver por dia",
+    "hourlyView": "Ver por hora",
+    "serverList": "Lista de servidores",
+    "daysToShow": "Dias para mostrar",
+    "selectServer": "Selecionar servidor",
+    "allServers": "Todos os servidores",
+    "label": "Conexões de Administradores"
+  },
+  "connectionsChart": {
+    "title": "Conexões ao Servidor",
+    "description": "Conexões de jogadores ao longo do tempo",
+    "dailyView": "Ver por dia",
+    "hourlyView": "Ver por hora",
+    "serverList": "Lista de servidores",
+    "daysToShow": "Dias para mostrar",
+    "selectServer": "Selecionar servidor",
+    "allServers": "Todos os servidores",
+    "label": "Conexões ao Servidor"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "redirecting": "Redirecionando...",
+    "daterange": "Selecione uma data"
+  },
+  "totalPlaytime": {
+    "title": "Tempo Total de Jogo"
+  },
+  "totalConnections": {
+    "title": "Conexões Totais"
+  },
+  "totalMessages": {
+    "title": "Total de mensagens"
+  },
+  "statistics": {
+    "title": "Estatísticas",
+    "serverConnections": "Conexões ao Servidor",
+    "adminConnections": "Conexões de Administradores",
+    "errors": {
+      "serverOptions": "Erro ao carregar opções do servidor"
+    }
+  },
+  "userChatLog": {
+    "title": "Registro de Chat do Usuário",
+    "userProfile": {
+      "steamId": "SteamID",
+      "ip": "IP",
+      "unknown": "Desconhecido"
+    },
+    "filters": {
+      "showFilters": "Mostrar filtros",
+      "hideFilters": "Ocultar filtros",
+      "selectServer": "Selecionar Servidor",
+      "selectTeam": "Selecionar Equipe",
+      "filterByMessage": "Filtrar por Mensagem"
+    },
+    "messages": {
+      "globalMessage": "Mensagem Global",
+      "teamMessage": "Mensagem de Equipe",
+      "unknown": "Desconhecido"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Próximo"
+    },
+    "errors": {
+      "failedToLoad": "Falha ao carregar mensagens"
+    }
+  },
+  "footer": {
+    "designBy": "Projetado por"
+  },
+  "login": {
+    "title": "Entrar",
+    "steamLogin": "Entrar com Steam",
+    "errors": {
+      "sessionCheck": "Erro ao verificar sessão",
+      "authFailed": "Falha na autenticação",
+      "notAuthorized": "Não autorizado"
+    }
+  },
+  "dashboard": {
+    "title": "Painel de Controle",
+    "authorizedUsers": "Usuários Autorizados",
+    "configuration": "Configuração",
+    "roles": "Gerenciamento de Permissões",
+    "addNewRole": "Adicionar Novo Papel",
+    "roleName": "Nome do Papel",
+    "roleDescription": "Descrição do Papel",
+    "enterRoleName": "Digite o nome do papel",
+    "enterRoleDescription": "Digite a descrição do papel",
+    "addRole": "Adicionar Papel",
+    "edit": "Editar",
+    "save": "Salvar",
+    "remove": "Remover",
+    "pageAccess": "Acesso às Páginas",
+    "ownerHasAllAccess": "O proprietário sempre tem acesso a todas as páginas",
+    "roleManagementOwnerOnly": "Apenas o proprietário pode gerenciar papéis",
+    "noPermission": "Você não tem permissão para acessar esta seção",
+    "enterSteamID64": "Digite o SteamID64",
+    "addUser": "Adicionar Usuário",
+    "noAuthorizedUsers": "Não há usuários autorizados",
+    "unknownUser": "Usuário Desconhecido",
+    "role": "Papel",
+    "imageUrl": "URL da imagem",
+    "enterImageUrl": "Digite a URL da imagem",
+    "updateImageUrl": "Atualizar URL da imagem",
+    "serverOptions": "Opções de Servidor",
+    "serverOptionsFormat": "Formato: NOME | ID DO SERVIDOR",
+    "serverName": "Nome do Servidor (ex. RETAKE #1)",
+    "serverId": "ID do Servidor (ex. 1)",
+    "addServerOption": "Adicionar Opção de Servidor",
+    "updateServerOptions": "Atualizar Opções de Servidor",
+    "detectServersAutomatically": "Detectar servidores automaticamente",
+    "detectingServers": "Detectando...",
+    "serversDetected": "Servidores detectados",
+    "serversDetectedMessage": "{{count}} servidores foram detectados.",
+    "serverDetectionError": "Não foi possível detectar servidores.",
+    "serverOptionsUpdated": "Opções de servidor atualizadas com sucesso",
+    "success": {
+      "userAdded": "Usuário adicionado com sucesso",
+      "userRemoved": "Usuário removido com sucesso",
+      "userRoleUpdated": "Papel do usuário atualizado com sucesso",
+      "configUpdated": "Configuração atualizada com sucesso"
+    },
+    "error": {
+      "addUser": "Erro ao adicionar usuário",
+      "removeUser": "Erro ao remover usuário",
+      "updateUserRole": "Erro ao atualizar o papel do usuário",
+      "updateConfig": "Erro ao atualizar a configuração"
+    }
+  },
+  "roles": {
+    "owner": "Proprietário"
+  },
+  "pages": {
+    "dashboard": "Painel de Administração",
+    "statistics": "Estatísticas",
+    "search": "Busca de Jogadores",
+    "chatlog": "Registros de Chat",
+    "roles": "Gerenciamento de Papéis"
+  }
+}
