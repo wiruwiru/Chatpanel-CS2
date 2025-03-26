@@ -2,6 +2,9 @@
 
 Welcome to **ChatPanel**! This web project is designed to help staff members review chat logs and access user information. The project works exclusively with the **SimpleAdmin** fork made by Cruze.
 
+> [!CAUTION]  
+> If you were using version **v1.1.2** or earlier, you **must** remove any database tables with the `chatpanel_` prefix before updating to version **v1.1.3** or higher. This is because newer versions use a significantly different schema for their tables.
+
 ---
 
 ## ✨ Features
