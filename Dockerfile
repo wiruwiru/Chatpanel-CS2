@@ -6,15 +6,14 @@ COPY package*.json ./
 
 RUN npm install --legacy-peer-deps
 
-COPY .next ./.next
-COPY public ./public
-COPY next.config.js ./
-COPY .env.example ./.env
+COPY . .
+
+RUN npm install -g next
 
 ENV NODE_ENV=production
-ENV NEXT_TELEMETRY_DISABLED 1
+ENV NEXT_TELEMETRY_DISABLED=1
 
 EXPOSE 3000
-ENV HOSTNAME "0.0.0.0"
+ENV HOSTNAME="0.0.0.0"
 
-CMD ["npm", "start"]
+CMD ["sh", "-c", "PORT=$(grep PORT .env | cut -d '=' -f2) && npx next start -p ${PORT:-3000}"]
