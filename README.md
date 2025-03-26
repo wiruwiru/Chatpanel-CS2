@@ -31,6 +31,7 @@ Welcome to **ChatPanel**! This web project is designed to help staff members rev
 
 ### ⚙️ Configuración
 ![Configuratión](https://github.com/user-attachments/assets/e34a97a9-5489-424b-92c5-f3e9561f2625)
+![Permissions](https://github.com/user-attachments/assets/4936ed69-9a96-46a6-b1d9-2ec931dc177a)
 
 ### 💬 ChatLogs
 ![ChatLogs](https://github.com/user-attachments/assets/da679b41-5c15-4c07-9003-39f60c9335c1)
