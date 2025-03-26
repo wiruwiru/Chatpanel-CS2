@@ -2,18 +2,18 @@
   "header": {
     "home": "Início",
     "chatlogs": "Chatlogs",
-    "playerSearch": "Busca de jogadores",
+    "playerSearch": "Pesquisar Jogadores",
     "statistics": "Estatísticas",
     "adminPanel": "Administração",
-    "toggleMenu": "Alternar menu",
-    "selectLanguage": "Selecionar idioma",
-    "userAvatar": "Avatar do usuário",
+    "toggleMenu": "Alternar Menu",
+    "selectLanguage": "Selecionar Idioma",
+    "userAvatar": "Avatar do Usuário",
     "user": "Usuário",
     "logout": "Sair"
   },
   "home": {
     "title": "ChatPanel",
-    "playerSearch": "Busca de jogadores",
+    "playerSearch": "Pesquisar Jogadores",
     "chatlogs": "Chatlogs",
     "statistics": "Estatísticas",
     "adminPanel": "Administração"
@@ -44,11 +44,11 @@
     }
   },
   "userSearch": {
-    "title": "Busca de Jogadores",
-    "searchPlaceholder": "Buscar por SteamID64, Nome ou IP",
-    "searchButton": "Buscar",
-    "performSearch": "Realize uma busca para ver resultados.",
-    "noResults": "Nenhum resultado encontrado. Tente um método de busca diferente.",
+    "title": "Pesquisar Jogadores",
+    "searchPlaceholder": "Pesquisar por SteamID64, Nome ou IP",
+    "searchButton": "Pesquisar",
+    "performSearch": "Realize uma pesquisa para ver resultados.",
+    "noResults": "Nenhum resultado encontrado. Tente um método de pesquisa diferente.",
     "error": "Houve um erro ao recuperar os resultados. Por favor, tente novamente em alguns minutos.",
     "loading": "Carregando...",
     "lastSeen": "Visto pela última vez",
@@ -120,7 +120,7 @@
     "title": "Conexões Totais"
   },
   "totalMessages": {
-    "title": "Total de mensagens"
+    "title": "Total de Mensagens"
   },
   "statistics": {
     "title": "Estatísticas",
@@ -174,12 +174,12 @@
     "authorizedUsers": "Usuários Autorizados",
     "configuration": "Configuração",
     "roles": "Gerenciamento de Permissões",
-    "addNewRole": "Adicionar Novo Papel",
-    "roleName": "Nome do Papel",
-    "roleDescription": "Descrição do Papel",
-    "enterRoleName": "Digite o nome do papel",
-    "enterRoleDescription": "Digite a descrição do papel",
-    "addRole": "Adicionar Papel",
+    "addNewRole": "Adicionar Novo Cargo",
+    "roleName": "Nome do Cargo",
+    "roleDescription": "Descrição do Cargo",
+    "enterRoleName": "Digite o nome do cargo",
+    "enterRoleDescription": "Digite a descrição do cargo",
+    "addRole": "Adicionar Cargo",
     "edit": "Editar",
     "save": "Salvar",
     "remove": "Remover",
