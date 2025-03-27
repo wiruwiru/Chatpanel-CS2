@@ -141,7 +141,11 @@
       "showFilters": "Show filters",
       "hideFilters": "Hide filters",
       "selectServer": "Select Server",
+      "allServers": "All Servers",
       "selectTeam": "Select Team",
+      "allChats": "All Chats",
+      "globalMessage": "Global Message",
+      "teamMessage": "Team Message",
       "filterByMessage": "Filter by Message"
     },
     "messages": {

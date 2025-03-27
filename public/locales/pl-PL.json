@@ -141,7 +141,11 @@
       "showFilters": "Pokaż filtry",
       "hideFilters": "Ukryj filtry",
       "selectServer": "Wybierz serwer",
+      "allServers": "Wszystkie serwery",
       "selectTeam": "Wybierz drużynę",
+      "allChats": "Oba czaty",
+      "globalMessage": "Globalne wiadomości",
+      "teamMessage": "Wiadomości drużynowe",
       "filterByMessage": "Sortuj przez wiadomości"
     },
     "messages": {

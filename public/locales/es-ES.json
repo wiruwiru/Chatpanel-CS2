@@ -143,6 +143,9 @@
       "selectServer": "Seleccionar Servidor",
       "allServers": "Todos los Servidores",
       "selectTeam": "Seleccionar Equipo",
+      "allChats": "Todos los Chats",
+      "globalMessage": "Mensaje Global",
+      "teamMessage": "Mensaje de Equipo",
       "filterByMessage": "Filtrar por Mensaje"
     },
     "messages": {
